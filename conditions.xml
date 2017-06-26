@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+
+<Conditions>
+
+   <Condition>
+          <ID>001</ID>
+          <Name>Early Hunger Clues</Name>
+          <MinThreshold>485</MinThreshold>
+          <MaxThreshold>550</MaxThreshold>
+          
+   </Condition>
+
+   <Condition>
+          <ID>002</ID>
+          <Name>Active Hunger Clues</Name>
+          <MinThreshold>150</MinThreshold>
+          <MaxThreshold>250</MaxThreshold>
+          
+   </Condition>
+
+   <Condition>
+          <ID>003</ID>
+          <Name>Late Hunger Clues</Name>
+          <MinThreshold>250</MinThreshold>
+          <MaxThreshold>300</MaxThreshold>
+          
+   </Condition>
+
+</Conditions>
